@@ -1,0 +1,2 @@
+org.keycloak.protocol.oidc.mappers.ScriptBasedOIDCProtocolMapper
+org.keycloak.protocol.saml.mappers.ScriptBasedMapper
